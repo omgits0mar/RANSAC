@@ -1,0 +1,11 @@
+name : Omar Khaled Ahmed
+SC
+20191700407
+.
+.
+.
+conclusion :
+
+due to change in background the simillarity score is greatly affected and also matches are quite low
+and therefore the ratio is so low 
+also not many matches are outputted from david's
